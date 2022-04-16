@@ -12,4 +12,13 @@ This is a simple calculator made in Scheme.
 
 *operation* number number
 
-- **+**:
+- **+**: Addition.
+- **-**: Substraction.
+- **\***: Multiplication.
+- **/**: Divition.
+- **sqr**: Exponential
+- **sqrt**: Square Root.
+- **%**: Remainder.
+- **div**: Residue
+- **fact!**: Factorial.
+- **fibonacci**: Fibonacci 
