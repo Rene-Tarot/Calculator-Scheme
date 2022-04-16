@@ -12,4 +12,4 @@ This is a simple calculator made in Scheme.
 
 *operation* number number
 
-- hello
+- **+**:
