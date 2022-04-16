@@ -6,8 +6,10 @@ This is a simple calculator made in Scheme.
 
 1. Download [Racket](https://racket-lang.org/)
 2. Open the file in the IDE.
-3. Select the language es Pretty Big.
+3. Select the language as Pretty Big.
 
-## How to use
+## Operation Format
 
+*operation* number number
 
+- hello
